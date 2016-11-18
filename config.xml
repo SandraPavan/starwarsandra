@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.finch.lp5.pedidos" version="0.0.1" xmlns="http://www.w3.org/ns/wi" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Star Wars</name>
+    <description> App que apresenta Personagens, Naves, Planetas de Stars Wars</description>
+    <author email="sandrapavan@gmail.com" href="http://fibr.br">
+
+ Sandra Pavan
+
+</author>
+    <preference name="Orientation" value="portrait" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="BackgroundColor" value="0xeceff1FF" />
+    <preference name="DisallowOverscroll" value="false" />
+    <engine name="android" spec="~5.2.2" />
+    <plugin name="cordova-plugin-statusbar" spec="~2.2.0" />
+</widget>
